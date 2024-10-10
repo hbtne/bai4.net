@@ -193,6 +193,9 @@
     <Content Include="Views\Hello\HocMVC.cshtml" />
     <Content Include="Views\Catalog\Index.cshtml" />
     <Content Include="Views\Product\Index.cshtml" />
+    <Content Include="Views\Product\Details.cshtml" />
+    <Content Include="Views\Catalog\SanPhams.cshtml" />
+    <Content Include="Views\Catalog\Create.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
